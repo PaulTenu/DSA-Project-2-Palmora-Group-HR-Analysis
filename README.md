@@ -85,10 +85,4 @@ DIVIDE(
 
 **Dashboard**
 
-
-
-
-
-
-
-
+![Screenshot_Power_BI_dashboard](https://github.com/user-attachments/assets/b842b351-2524-4789-920d-5f8074f537ed)
