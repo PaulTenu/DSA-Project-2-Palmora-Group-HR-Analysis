@@ -4,7 +4,8 @@ This Project aims to analyse product and customer review data to uncover actiona
 
 ## Data Set used
 
-- <a href = "https://github.com/PaulTenu/DSA-Project-2-Palmora-Group-HR-Analysis/blob/main/Palmoria%20Group%20emp-data.csv">Data set</a>
+- <a href = "https://github.com/PaulTenu/DSA-Project-2-Palmora-Group-HR-Analysis/blob/main/Palmoria%20Group%20emp-data.csv">Original Data Set</a>
+- <a href = "https://github.com/PaulTenu/DSA-Project-2-Palmora-Group-HR-Analysis/blob/main/Palmoria%20Group%20emp-data_%5Btransformed%5D.csv">Used Data Set</a>
 
 ## Analysis Tasks
 
@@ -16,28 +17,75 @@ there is, identify the department and regions that should be the focus of
 management
 4. A recent regulation was adopted which requires manufacturing companies to pay
 employees a minimum of $90,000
-  ● Does Palmoria meet this requirement?
-  ● Show the pay distribution of employees grouped by a band of $10,000. For example:
-  ● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000,
+  - Does Palmoria meet this requirement?
+  - Show the pay distribution of employees grouped by a band of $10,000. For example:
+  - How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000,
 etc.?
-  ● Also visualize this by regions
-5. With the rule for making bonus payment dataset;
-  ● Calculate the amount to be paid as a bonus to individual employees
-  ● Calculate the total amount to be paid to individual employees (salary inclusive of
+  - Also visualize this by regions
+6. With the rule for making bonus payment dataset;
+  - Calculate the amount to be paid as a bonus to individual employees
+  - Calculate the total amount to be paid to individual employees (salary inclusive of
 bonus)
-  ● Total amount to be paid out per region and company-wide
+  - Total amount to be paid out per region and company-wide
+7. Dashboard
+  - <a href = "https://github.com/PaulTenu/DSA-Project-2-Palmora-Group-HR-Analysis/blob/main/Palmoria%20Group%20emp-data_%5Btransformed%5D.csv">Dashboard File</a>
 
 
 ## Exploratory Data Analysis
 
+1. Import the employee data into Power BI. Did a proper cleaning which include;
+  - Removing employees without salaries and departments indicated as "NULL".
+  - Assign a generic gender status to employees who refused to disclose their gender. Created a column for it and named **Gender_Status**
+
+2. Performed a Gender Distribution Analysis and created a barchart with the following attributes
+  - Axis: *Department*
+  - Value: Count of *Employees by Gender*
+3. Created a slicer to filter by *Location*.
+4. Visualize the overall *gender distribution* using a pie chart(*Donut Chart*).
+
+**Measures applied for the first four steps;**
+  - *Gender Count = COUNT('Employee'[Gender])*
+  - *Gender Percentage = DIVIDE(CALCULATE(COUNT('Palmoria Group emp-data'[Gender_Status])), CALCULATE(COUNT('Palmoria Group emp-data'[Gender_Status]), ALL('Palmoria Group emp-data'[Gender_Status])))*
+  - *Gender_Status = 
+VAR g = TRIM(LOWER('Palmoria Group emp-data'[Gender]))
+RETURN 
+SWITCH(
+    TRUE(),
+    g = "Male", "Male",
+    g = "Female", "Female",
+    ISBLANK('Palmoria Group emp-data'[Gender]), "Not Specified",
+    "Undisclosed"
+)*
+
+5. Minimum Salary Requirement Analysis
+  - Created a histogram as follow:
+    - Axis: Salary Band ($10,000 increments)
+    - Value: Count of Employees
+  - Calculated the number of employees below the minimum salary threshold by region. And visualised with a Bar chart:
+
+**Measures applied;**
+  - *Employees Below Minimum Salary = COUNTX(FILTER('Palmoria Group emp-data','Palmoria Group emp-data'[Salary] < 90000), 'Palmoria Group emp-data'[Salary])*
+  - *% Below Minimum Salary (Female) = 
+DIVIDE(
+    COUNTX(
+        FILTER(
+            'Palmoria Group emp-data',
+            'Palmoria Group emp-data'[Salary] < 90000 &&
+            'Palmoria Group emp-data'[Gender] = "Female"
+        ),
+        'Palmoria Group emp-data'[Salary]
+    ),
+    CALCULATE(
+        COUNTROWS('Palmoria Group emp-data'),
+        'Palmoria Group emp-data'[Gender] = "Female"
+    ),
+    0
+)*
+  - **SAME WAS USED FOR MALE(%)**
 
 
-## Dashboard
 
 
 
-##  Project Insight
 
-
-Conclusion
 
