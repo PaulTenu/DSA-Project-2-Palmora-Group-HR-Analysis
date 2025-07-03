@@ -28,7 +28,7 @@ etc.?
 bonus)
   - Total amount to be paid out per region and company-wide
 7. Dashboard
-  - <a href = "https://github.com/PaulTenu/DSA-Project-2-Palmora-Group-HR-Analysis/blob/main/Palmoria%20Group%20emp-data_%5Btransformed%5D.csv">Dashboard File</a>
+  - <a href = "https://github.com/PaulTenu/DSA-Project-2-Palmora-Group-HR-Analysis/blob/main/DSA%20CAPSTONE%20PROJECT%20QNS.%203_POWER_BI.pdf">Dashboard File</a>
 
 
 ## Exploratory Data Analysis
@@ -82,6 +82,9 @@ DIVIDE(
     0
 )*
   - **SAME WAS USED FOR MALE(%)**
+
+**Dashboard**
+
 
 
 
