@@ -1,0 +1,944 @@
+﻿Name,Gender,Department,Sum of Salary,Location,Rating,Gender_Status,Salary (bins)
+Abbie Tann,Female,Business Development,116520,Lagos,Good,Female,110000
+Abigael Basire,Male,Engineering,61620,Abuja,Average,Male,60000
+Abigael Basire,Male,Engineering,61620,Lagos,Poor,Male,60000
+Abramo Labbez,Female,Research and Development,77000,Lagos,Average,Female,70000
+Abran Danielsky,Female,Engineering,32720,Kaduna,Average,Female,30000
+Addi Studdeard,Female,Product Management,72500,Abuja,Poor,Female,70000
+Addi Studdeard,Female,Product Management,72500,Lagos,Very Poor,Female,70000
+Addia Penwright,Male,Research and Development,28130,Abuja,Poor,Male,20000
+Addy Pimblett,Male,Product Management,66460,Lagos,Average,Male,60000
+Adela Dowsett,Male,Support,95020,Lagos,Average,Male,90000
+Adelina Cheeseman,Male,Support,45510,Kaduna,Very Good,Male,40000
+Adella Hartshorne,Female,Human Resources,41160,Abuja,Good,Female,40000
+Adella Hartshorne,Female,Human Resources,41160,Lagos,Average,Female,40000
+Adey Ryal,Female,Legal,32500,Lagos,Average,Female,30000
+Adi Seawright,Female,Marketing,48590,Kaduna,Very Poor,Female,40000
+Adolph Hartin,Male,Product Management,89960,Lagos,Poor,Male,80000
+Adolph McNalley,Male,Business Development,85920,Abuja,Poor,Male,80000
+Adrianne Gave,Male,Engineering,78440,Lagos,Poor,Male,70000
+Aeriela Aickin,Male,Product Management,37550,Abuja,Average,Male,30000
+Aeriell Cuell,Male,Legal,108290,Abuja,Very Poor,Male,100000
+Agnes Collicott,Female,Sales,83750,Abuja,Average,Female,80000
+Aida Bleacher,Male,Product Management,87810,Abuja,Not Rated,Male,80000
+Aile Strathearn,Female,Marketing,114600,Lagos,Good,Female,110000
+Aileen McCritchie,Male,Business Development,80170,Lagos,Average,Male,80000
+Aindrea Lenormand,Female,Human Resources,71180,Abuja,Good,Female,70000
+Aldrich Glenny,Male,Business Development,90880,Abuja,Not Rated,Male,90000
+Aldrich Glenny,Male,Business Development,90880,Kaduna,Average,Male,90000
+Aleksandr Botha,Male,Sales,60260,Abuja,Not Rated,Male,60000
+Alexandros Rackley,Female,Legal,75730,Kaduna,Not Rated,Female,70000
+Alexine Portail,Female,Sales,60330,Lagos,Average,Female,60000
+Alexis Gotfrey,Male,Engineering,114470,Lagos,Very Good,Male,110000
+Alford Gerardi,Female,Engineering,37130,Lagos,Not Rated,Female,30000
+Alfred Peplay,Female,Human Resources,60580,Kaduna,Not Rated,Female,60000
+Alfred Peplay,Female,Human Resources,60580,Lagos,Very Good,Female,60000
+Ali Roubert,"",Engineering,69460,Abuja,Very Good,Undisclosed,60000
+Alic Bagg,Male,Legal,113750,Kaduna,Average,Male,110000
+Alicea Pudsall,Male,Accounting,67630,Abuja,Average,Male,60000
+Alida Welman,Male,Human Resources,69860,Kaduna,Average,Male,60000
+Alida Welman,Male,Human Resources,69860,Lagos,Poor,Male,60000
+Alikee Jecock,Female,Legal,85000,Kaduna,Poor,Female,80000
+Alisha Bloschke,"",Product Management,36480,Abuja,Average,Undisclosed,30000
+Allene Gobbet,Female,Engineering,78390,Abuja,Average,Female,70000
+Allyce Hincham,Male,Business Development,101420,Lagos,Average,Male,100000
+Aloisia Minto,Male,Research and Development,41420,Abuja,Good,Male,40000
+Alta Kaszper,Male,Training,54970,Lagos,Average,Male,50000
+Althea Bronger,Male,Product Management,104340,Kaduna,Average,Male,100000
+Althea Bronger,Male,Product Management,104340,Kaduna,Poor,Male,100000
+Aluin Churly,Female,Research and Development,96560,Kaduna,Not Rated,Female,90000
+Alvie Keming,Female,Legal,37840,Kaduna,Poor,Female,30000
+Alyosha Riquet,Male,Legal,89840,Abuja,Very Good,Male,80000
+Alysa Wankling,"",Legal,106460,Lagos,Good,Undisclosed,100000
+Amaleta Baltzar,"",Research and Development,70080,Lagos,Very Poor,Undisclosed,70000
+Amandy Jope,Male,Accounting,99630,Abuja,Average,Male,90000
+Ambros Murthwaite,Male,Sales,70610,Lagos,Average,Male,70000
+Ambrosio Daniely,Female,Support,80060,Kaduna,Very Good,Female,80000
+Amery Ofer,Female,Legal,111050,Abuja,Very Good,Female,110000
+Amii Elms,Female,Business Development,53920,Kaduna,Poor,Female,50000
+Amitie Mawson,Female,Marketing,116500,Lagos,Not Rated,Female,110000
+Anabal Cooke,Female,Product Management,31920,Kaduna,Average,Female,30000
+Ancell Moretto,Female,Product Management,96920,Abuja,Very Poor,Female,90000
+Andrea Becker,Female,Human Resources,46160,Kaduna,Average,Female,40000
+Andrea Penfold,Male,Marketing,70230,Kaduna,Average,Male,70000
+Andria Kimpton,Male,Product Management,69120,Abuja,Average,Male,60000
+Andria Kimpton,Male,Product Management,69120,Kaduna,Average,Male,60000
+Angela Bangley,Female,Training,50810,Abuja,Not Rated,Female,50000
+Angeline Christophersen,Female,Engineering,86940,Abuja,Poor,Female,80000
+Angeline Christophersen,Female,Engineering,86940,Kaduna,Average,Female,80000
+Anjanette Ferre,"",Human Resources,67960,Abuja,Average,Undisclosed,60000
+Anjela Spancock,"",Accounting,98010,Lagos,Average,Undisclosed,90000
+Anne-corinne Daulby,Male,Engineering,78640,Lagos,Good,Male,70000
+Anni Dinse,Male,Product Management,119670,Lagos,Average,Male,110000
+Anni Dinse,Male,Product Management,119670,Lagos,Not Rated,Male,110000
+Anni Izzard,Male,Human Resources,103490,Abuja,Good,Male,100000
+Ansley Gounel,Female,Product Management,38440,Abuja,Poor,Female,30000
+Ansley Gounel,Female,Product Management,38440,Lagos,Average,Female,30000
+Antone Tolmie,Male,Training,110820,Kaduna,Good,Male,110000
+Antonetta Coggeshall,Male,Sales,96750,Kaduna,Average,Male,90000
+Antonino Forsdicke,Male,Product Management,66370,Abuja,Average,Male,60000
+Antonino Forsdicke,Male,Product Management,66370,Lagos,Average,Male,60000
+Appolonia Snook,Female,Services,93880,Kaduna,Average,Female,90000
+Archaimbaud Pinchin,Male,Marketing,40270,Kaduna,Average,Male,40000
+Archibald Dyzart,Male,Product Management,63020,Abuja,Average,Male,60000
+Archibald Filliskirk,Male,Research and Development,40400,Abuja,Very Good,Male,40000
+Archibaldo Denny,Female,Product Management,69740,Lagos,Not Rated,Female,60000
+Ardella Dyment,Female,Business Development,70650,Kaduna,Good,Female,70000
+Ardyce Eacott,Female,Human Resources,92470,Kaduna,Average,Female,90000
+Aretha Ettridge,Female,Accounting,33760,Abuja,Average,Female,30000
+Arty Duigan,Male,Legal,108600,Abuja,Very Good,Male,100000
+Ashien Gallen,Female,Research and Development,115080,Abuja,Very Good,Female,110000
+Aubert Wedmore.,Female,Marketing,61330,Lagos,Average,Female,60000
+Audry Yu,Female,Training,101190,Abuja,Average,Female,100000
+Augusta Cheetham,Male,Research and Development,105470,Abuja,Average,Male,100000
+Aurelea Devitt,Male,Support,58840,Abuja,Average,Male,50000
+Aurelia Stanners,Female,Services,98630,Lagos,Good,Female,90000
+Austine Littlewood,Female,Services,32270,Abuja,Average,Female,30000
+Ava Whordley,Female,Product Management,104210,Abuja,Very Good,Female,100000
+Avigdor Karel,Male,Training,71210,Kaduna,Average,Male,70000
+Axel Grigaut,Male,Sales,110780,Abuja,Poor,Male,110000
+Barbara-anne Kenchington,Female,Support,88030,Abuja,Average,Female,80000
+Barbara-anne Kenchington,Female,Support,88030,Kaduna,Very Good,Female,80000
+Bari Toffano,Male,Product Management,106780,Kaduna,Poor,Male,100000
+Barnaby Farnall,"",Engineering,118800,Kaduna,Very Good,Undisclosed,110000
+Barney Bonafant,Female,Engineering,48060,Abuja,Poor,Female,40000
+Barny Fairweather,Male,Marketing,77130,Lagos,Very Poor,Male,70000
+Barr Faughny,Female,Marketing,68010,Abuja,Average,Female,60000
+Barri Teacy,Female,Accounting,86240,Lagos,Average,Female,80000
+Baudoin Dummigan,Male,Legal,114510,Kaduna,Average,Male,110000
+Baxter Brocks,Female,Human Resources,39680,Abuja,Poor,Female,30000
+Bayard Gendricke,Male,Legal,40980,Kaduna,Very Poor,Male,40000
+Beatrix Schoales,"",Sales,114010,Kaduna,Average,Undisclosed,110000
+Beatriz Bateson,Male,Marketing,89090,Kaduna,Good,Male,80000
+Bebe Pollicott,Female,Legal,87740,Kaduna,Average,Female,80000
+Bendite Bloan,Male,Marketing,31820,Lagos,Average,Male,30000
+Bennett Gimenez,Female,Human Resources,36460,Abuja,Good,Female,30000
+Benni Simounet,Male,Research and Development,115790,Lagos,Very Poor,Male,110000
+Benny Karolovsky,"",Human Resources,115440,Abuja,Average,Undisclosed,110000
+Benoite Ackermann,Female,Services,57080,Abuja,Average,Female,50000
+Berenice Osbaldstone,Female,Legal,58280,Abuja,Average,Female,50000
+Berna Dubery,Male,Services,69730,Kaduna,Very Poor,Male,60000
+Bernie Gorges,Female,Training,99970,Lagos,Average,Female,90000
+Berny Bastide,"",Research and Development,56710,Kaduna,Average,Undisclosed,50000
+Bert Yaakov,Male,Research and Development,72040,Kaduna,Poor,Male,70000
+Beryl Burnsyde,Male,Legal,29770,Abuja,Very Good,Male,20000
+Beryl Burnsyde,Male,Legal,29770,Lagos,Good,Male,20000
+Bethanne Leicester,"",Services,72450,Abuja,Not Rated,Undisclosed,70000
+Bette-ann Leafe,Male,Human Resources,93500,Abuja,Average,Male,90000
+Bev Lashley,Male,Business Development,112110,Kaduna,Not Rated,Male,110000
+Beverie Moffet,Female,Support,75970,Abuja,Very Good,Female,70000
+Beverie Moffet,Female,Support,75970,Kaduna,Average,Female,70000
+Bili Sizey,Male,Research and Development,36040,Abuja,Average,Male,30000
+Billi Fellgate,Female,Business Development,68980,Kaduna,Average,Female,60000
+Billie Croucher,Female,Engineering,75230,Kaduna,Poor,Female,70000
+Blaire Ruckman,Male,Business Development,61700,Kaduna,Average,Male,60000
+Blythe Clipston,Female,Human Resources,35670,Kaduna,Average,Female,30000
+Bobina Teale,Male,Marketing,116890,Kaduna,Average,Male,110000
+Bogey Hitcham,Male,Product Management,106170,Abuja,Good,Male,100000
+Bogey Hitcham,Male,Product Management,106170,Lagos,Poor,Male,100000
+Bordy Yatman,Female,Product Management,108450,Lagos,Good,Female,100000
+Brad Gumb,Male,Accounting,38830,Kaduna,Good,Male,30000
+Bren Absolon,Male,Accounting,74710,Abuja,Good,Male,70000
+Brendan Edgeller,Female,Legal,31040,Abuja,Good,Female,30000
+Brien Boise,Female,Research and Development,58100,Kaduna,Very Good,Female,50000
+Brig Dewi,Male,Sales,108250,Lagos,Average,Male,100000
+Brigid Jeffrey,Female,Support,53910,Kaduna,Good,Female,50000
+Brit Hamnett,Male,Human Resources,75540,Abuja,Average,Male,70000
+Brodie Grimstead,Male,Business Development,117850,Kaduna,Good,Male,110000
+Brose MacCorkell,Female,Human Resources,35940,Kaduna,Average,Female,30000
+Brose MacCorkell,Female,Human Resources,35940,Lagos,Poor,Female,30000
+Bryana Loyns,Male,Sales,55280,Kaduna,Average,Male,50000
+Bryant Scamp,Female,Human Resources,29810,Kaduna,Average,Female,20000
+Burtie Moulden,Female,Services,116220,Lagos,Poor,Female,110000
+Callie Duckels,Male,Product Management,53760,Abuja,Average,Male,50000
+Calvin O'Carroll,Female,Research and Development,44450,Abuja,Very Good,Female,40000
+Calvin O'Carroll,Female,Research and Development,44450,Kaduna,Very Poor,Female,40000
+Camilla Castle,Female,Product Management,75480,Kaduna,Average,Female,70000
+Camille Baldinotti,Female,Product Management,41700,Lagos,Good,Female,40000
+Candace Hanlon,Male,Support,46280,Lagos,Average,Male,40000
+Candy Aindrais,Female,Business Development,116590,Lagos,Very Good,Female,110000
+Cara Havers,Male,Marketing,89610,Kaduna,Very Good,Male,80000
+Cara Havers,Male,Marketing,89610,Lagos,Good,Male,80000
+Caresa Christer,Male,Support,59260,Lagos,Poor,Male,50000
+Caritta Searl,Male,Sales,54010,Kaduna,Poor,Male,50000
+Carlene Torry,Female,Engineering,59610,Lagos,Good,Female,50000
+Carlin Demke,Male,Business Development,110040,Lagos,Good,Male,110000
+Carmel Pancoust,Female,Services,119550,Abuja,Good,Female,110000
+Caro Chappel,Female,Sales,104410,Kaduna,Average,Female,100000
+Caro Hainsworth,Male,Marketing,77470,Kaduna,Good,Male,70000
+Carolin Fieldstone,Female,Marketing,36920,Kaduna,Average,Female,30000
+Carolina Blumsom,Male,Legal,28580,Abuja,Average,Male,20000
+Carolyn Attack,Female,Marketing,70760,Lagos,Good,Female,70000
+Caron Kolakovic,Male,Accounting,49920,Kaduna,Average,Male,40000
+Carry Loblie,Female,Sales,47550,Kaduna,Average,Female,40000
+Cathi Delgardo,Male,Product Management,111910,Abuja,Good,Male,110000
+Cathi Delgardo,Male,Product Management,111910,Abuja,Not Rated,Male,110000
+Cathi Gillbee,Male,Legal,41790,Abuja,Average,Male,40000
+Cathrin Yanuk,Male,Sales,44120,Lagos,Very Poor,Male,40000
+Cathyleen Hurch,Female,Sales,49390,Lagos,Average,Female,40000
+Caty Janas,Male,Accounting,93210,Lagos,Poor,Male,90000
+Cecilia Marshalleck,Female,Marketing,118980,Abuja,Not Rated,Female,110000
+Cecilio Sprankling,Male,Research and Development,109710,Abuja,Average,Male,100000
+Cecilla Joselevitch,Female,Human Resources,77840,Abuja,Poor,Female,70000
+Cecilla Northen,Male,Human Resources,92870,Abuja,Average,Male,90000
+Chancey Dyos,Male,Sales,118060,Kaduna,Good,Male,110000
+Charline Husset,Male,Support,94530,Abuja,Poor,Male,90000
+Charmaine Howie,Male,Accounting,56810,Kaduna,Poor,Male,50000
+Charmane Heistermann,Female,Business Development,86560,Kaduna,Average,Female,80000
+Chas Happel,Female,Services,30940,Kaduna,Very Poor,Female,30000
+Chauncey Schild,Female,Support,107340,Abuja,Average,Female,100000
+Chauncey Schild,Female,Support,107340,Lagos,Very Good,Female,100000
+Chelsea Itzak,Male,Support,61100,Kaduna,Average,Male,60000
+Cherlyn Barter,Female,Accounting,104120,Abuja,Good,Female,100000
+Cheryl Mantz,Male,Sales,35740,Kaduna,Good,Male,30000
+Ches Bonnell,Male,Sales,88050,Lagos,Very Good,Male,80000
+Christoph Stretton,Female,Business Development,90240,Abuja,Poor,Female,90000
+Christopher Kezourec,Male,Training,55310,Kaduna,Very Poor,Male,50000
+Christos Wintle,Male,Engineering,74360,Lagos,Good,Male,70000
+Chrisy Kyme,Female,Marketing,99200,Lagos,Very Good,Female,90000
+Cindee Saice,Female,Services,103360,Abuja,Very Good,Female,100000
+Cindi McDuffy,Female,Services,87930,Abuja,Very Poor,Female,80000
+Cindi Stratten,Female,Services,99200,Lagos,Good,Female,90000
+Clarine Shambrooke,"",Support,93160,Lagos,Average,Undisclosed,90000
+Claudetta Petherick,Female,Legal,54520,Abuja,Poor,Female,50000
+Clemmie Hebblewaite,"",Services,54130,Kaduna,Very Poor,Undisclosed,50000
+Cletus McGarahan,Female,Engineering,114430,Kaduna,Very Good,Female,110000
+Cletus McGarahan,Female,Engineering,114430,Lagos,Good,Female,110000
+Cleveland Pottiphar,Female,Marketing,74600,Lagos,Very Good,Female,70000
+Clo Jimpson,Male,Legal,57620,Abuja,Good,Male,50000
+Clo Jimpson,Male,Legal,57620,Lagos,Very Poor,Male,50000
+Cly Vizard,Male,Business Development,51520,Abuja,Average,Male,50000
+Codi Beck,Female,Business Development,40560,Lagos,Poor,Female,40000
+Codie Gaunson,Male,Accounting,83590,Abuja,Poor,Male,80000
+Colby Reuven,Male,Business Development,101790,Lagos,Average,Male,100000
+Collen Dunbleton,Male,Engineering,118980,Abuja,Poor,Male,110000
+Collette Blackaller,Female,Human Resources,42380,Kaduna,Good,Female,40000
+Collin Jagson,Male,Services,100420,Abuja,Poor,Male,100000
+Colly Littledike,Female,Services,117150,Lagos,Average,Female,110000
+Conchita Soden,Male,Marketing,74410,Abuja,Good,Male,70000
+Constantino Espley,Male,Accounting,96800,Abuja,Average,Male,90000
+Corabel Luberto,Female,Human Resources,57820,Kaduna,Average,Female,50000
+Cordelia Djuricic,Female,Human Resources,65350,Abuja,Very Poor,Female,60000
+Corina Triner,Male,Sales,66100,Kaduna,Poor,Male,60000
+Corinna Griffiths,Male,Support,75010,Kaduna,Good,Male,70000
+Cornie Arstall,Female,Product Management,69970,Abuja,Average,Female,60000
+Corny Linturn,Female,Product Management,47960,Kaduna,Poor,Female,40000
+Courtney Given,Male,Engineering,43600,Abuja,Average,Male,40000
+Craggie Whistlecraft,Male,Product Management,71240,Abuja,Average,Male,70000
+Crawford Scad,Male,Human Resources,72880,Kaduna,Average,Male,70000
+Crawford Scad,Male,Human Resources,72880,Lagos,Average,Male,70000
+Crissie Cordel,Female,Product Management,41570,Abuja,Good,Female,40000
+Cristal Demangeot,Female,Sales,72350,Abuja,Good,Female,70000
+Cristal Demangeot,Female,Sales,72350,Kaduna,Poor,Female,70000
+Cull Nannetti,Male,Support,68090,Kaduna,Average,Male,60000
+Cullie Bourcq,Female,Sales,45590,Abuja,Good,Female,40000
+Curtice Advani,Male,Product Management,59810,Lagos,Average,Male,50000
+Curtice Advani,Male,Product Management,59810,Lagos,Good,Male,50000
+Cyndia Skedge,Male,Support,52630,Abuja,Average,Male,50000
+Cyril Medford,Female,Research and Development,85720,Abuja,Average,Female,80000
+Cyrillus Garci,Male,Business Development,100360,Lagos,Average,Male,100000
+Dael Bugge,Male,Training,62690,Lagos,Poor,Male,60000
+Daisie Dahlman,Female,Human Resources,61990,Lagos,Not Rated,Female,60000
+Daisie McNeice,Male,Human Resources,50310,Kaduna,Average,Male,50000
+Damien Netley,Male,Engineering,98110,Abuja,Good,Male,90000
+Dane Wudeland,Female,Accounting,80030,Kaduna,Poor,Female,80000
+Danica Nayshe,Female,Services,89690,Kaduna,Good,Female,80000
+Danica Nayshe,Female,Services,89690,Kaduna,Not Rated,Female,80000
+Danielle Johananoff,Male,Services,109040,Lagos,Average,Male,100000
+Daphne Francillo,Male,Training,63370,Lagos,Average,Male,60000
+Darcy Brewitt,Male,Human Resources,116670,Kaduna,Average,Male,110000
+Dare Tully,Male,Business Development,39780,Lagos,Not Rated,Male,30000
+Daron Biaggioli,Female,Product Management,112550,Kaduna,Average,Female,110000
+Daryn Kniveton,Female,Marketing,108390,Lagos,Poor,Female,100000
+Daven Smout,Female,Support,50800,Abuja,Very Good,Female,50000
+Dayle O'Luney,Female,Research and Development,46750,Abuja,Good,Female,40000
+Dayle O'Luney,Female,Research and Development,46750,Lagos,Average,Female,40000
+De witt Lottrington,Female,Sales,98360,Abuja,Very Poor,Female,90000
+Dean Biggam,Female,Training,71570,Abuja,Not Rated,Female,70000
+Debera Gow,Female,Research and Development,39700,Lagos,Average,Female,30000
+Deck McCallion,Male,Sales,33890,Abuja,Average,Male,30000
+Delinda Snozzwell,"",Engineering,134020,Abuja,Good,Undisclosed,60000
+Dell Molloy,Male,Engineering,47360,Abuja,Poor,Male,40000
+Delora Arendt,Female,Marketing,67620,Abuja,Good,Female,60000
+Delphine Jewis,Female,Accounting,71820,Kaduna,Average,Female,70000
+Demetria Le Estut,Female,Support,75720,Abuja,Very Poor,Female,70000
+Denni Wiggans,Male,Product Management,81220,Lagos,Poor,Male,80000
+Dennison Crosswaite,Male,Legal,90700,Abuja,Very Poor,Male,90000
+Derk Bosson,Female,Legal,75870,Lagos,Average,Female,70000
+Desi Peniman,Female,Legal,31090,Kaduna,Average,Female,30000
+Desi Peniman,Female,Legal,31090,Lagos,Average,Female,30000
+Devinne Tuny,Male,Engineering,39970,Kaduna,Average,Male,30000
+Dewie Stodart,Male,Accounting,78020,Kaduna,Average,Male,70000
+Diarmid Alman,Female,Training,98200,Abuja,Poor,Female,90000
+Dino Wooderson,Male,Legal,52120,Abuja,Poor,Male,50000
+Dionne Garrish,Female,Engineering,41600,Abuja,Good,Female,40000
+Doe Clubley,Female,Product Management,67820,Kaduna,Not Rated,Female,60000
+Dolley Grayley,Female,Legal,48980,Abuja,Very Good,Female,40000
+Dominic Ortler,Female,Product Management,66610,Abuja,Average,Female,60000
+Doralyn Segar,Female,Support,30000,Kaduna,Average,Female,30000
+Dorise Labat,Male,Business Development,101610,Kaduna,Average,Male,100000
+Doro Nolte,Female,Services,109050,Kaduna,Average,Female,100000
+Dorolice Farry,Female,Sales,76300,Kaduna,Average,Female,70000
+Dotty Strutley,Female,Engineering,41980,Lagos,Average,Female,40000
+Dov Thoresby,Male,Support,115490,Abuja,Poor,Male,110000
+Drusy MacCombe,Male,Training,43510,Kaduna,Average,Male,40000
+Duffie Ibel,Male,Sales,61010,Kaduna,Average,Male,60000
+Duky Wallace,Male,Business Development,102140,Kaduna,Average,Male,100000
+Dulsea Folkes,Female,Services,42160,Abuja,Average,Female,40000
+Dulsea Folkes,Female,Services,42160,Lagos,Very Good,Female,40000
+Durand Backhouse,Female,Sales,83400,Kaduna,Poor,Female,80000
+Dyanne Strafen,Male,Engineering,113800,Lagos,Average,Male,110000
+Dyna Doucette,Male,Sales,103550,Abuja,Average,Male,100000
+Easter Pyke,Female,Training,95680,Abuja,Average,Female,90000
+Easter Pyke,Female,Training,95680,Kaduna,Very Good,Female,90000
+Eberto William,Female,Research and Development,57750,Abuja,Average,Female,50000
+Ebonee Roxburgh,Male,Training,67950,Kaduna,Very Good,Male,60000
+Edd MacKnockiter,Male,Accounting,119020,Lagos,Poor,Male,110000
+Eddy Stolze,Male,Training,47760,Kaduna,Average,Male,40000
+Ede Mignot,Female,Research and Development,98640,Kaduna,Good,Female,90000
+Edgard Irving,"",Research and Development,87290,Kaduna,Good,Undisclosed,80000
+Edi Hofton,Male,Research and Development,28160,Abuja,Not Rated,Male,20000
+Effie Vasilov,Male,Support,60010,Lagos,Average,Male,60000
+Efrem Mathonnet,Female,Human Resources,107020,Kaduna,Average,Female,100000
+Egor Minto,"",Legal,63450,Abuja,Good,Undisclosed,60000
+Eilis Pavlasek,Male,Product Management,115190,Kaduna,Very Poor,Male,110000
+Eldredge MacClure,Male,Legal,46990,Kaduna,Average,Male,40000
+Eleni O'Quin,Male,Legal,89020,Lagos,Average,Male,80000
+Eleonore Airdrie,Female,Engineering,97110,Abuja,Average,Female,90000
+Elia Cockton,Female,Support,75280,Kaduna,Average,Female,70000
+Elliot Tuplin,Female,Sales,44530,Kaduna,Average,Female,40000
+Elwira Lyddiard,Male,Product Management,31280,Abuja,Average,Male,30000
+Emanuel Beldan,Male,Accounting,94070,Abuja,Average,Male,90000
+Emmanuel Westrey,Female,Support,87400,Kaduna,Average,Female,80000
+Emmeline Bestwerthick,Female,Sales,38240,Kaduna,Not Rated,Female,30000
+Emmye Corry,Male,Services,109030,Abuja,Very Good,Male,100000
+Emory Whitten,Female,Product Management,52000,Lagos,Not Rated,Female,50000
+Enrichetta Mowles,Female,Accounting,74390,Kaduna,Average,Female,70000
+Erin Androsik,Male,Human Resources,48530,Kaduna,Poor,Male,40000
+Erin Androsik,Male,Human Resources,48530,Lagos,Very Good,Male,40000
+Ernestus O'Hengerty,Female,Research and Development,31020,Abuja,Average,Female,30000
+Erv Balmann,Female,Services,29670,Lagos,Very Good,Female,20000
+Erv Havill,Female,Accounting,106080,Abuja,Not Rated,Female,100000
+Esmaria Denecamp,Male,Marketing,48980,Kaduna,Very Poor,Male,40000
+Estell Kingsland,Male,Sales,32190,Kaduna,Average,Male,30000
+Euell Willoughley,Male,Product Management,105800,Kaduna,Very Good,Male,100000
+Evangelia Gowers,Male,Business Development,118450,Kaduna,Very Good,Male,110000
+Evangelina Lergan,Male,Support,61210,Kaduna,Average,Male,60000
+Evanne Levens,Male,Human Resources,36880,Kaduna,Good,Male,30000
+Evanne Sheryn,Female,Services,81900,Abuja,Average,Female,80000
+Evyn Fyrth,Male,Support,90080,Kaduna,Average,Male,90000
+Eward Astlett,Male,Engineering,41670,Lagos,Average,Male,40000
+Ewart Hovel,Female,Training,116770,Lagos,Good,Female,110000
+Ewart Laphorn,Female,Training,119110,Kaduna,Good,Female,110000
+Faina Durand,Male,Sales,114650,Kaduna,Very Poor,Male,110000
+Fairfax Wallsam,"",Sales,88590,Abuja,Average,Undisclosed,80000
+Fanchon Furney,Male,Accounting,95950,Abuja,Average,Male,90000
+Fancy Bonin,"",Training,84680,Lagos,Good,Undisclosed,80000
+Farrel Vanyatin,Male,Support,118120,Lagos,Average,Male,110000
+Farris Ditchfield,Male,Human Resources,58030,Kaduna,Good,Male,50000
+Faun Rickeard,Male,Product Management,74920,Lagos,Average,Male,70000
+Faunie Sinton,Female,Sales,115230,Abuja,Good,Female,110000
+Fax Scotland,Female,Marketing,57640,Abuja,Average,Female,50000
+Fedora Graffin,Male,Research and Development,92500,Lagos,Good,Male,90000
+Felicdad Heibel,Male,Business Development,60800,Abuja,Average,Male,60000
+Felice McMurty,Female,Product Management,66870,Abuja,Not Rated,Female,60000
+Felipe Parkman,Female,Training,90150,Abuja,Very Good,Female,90000
+Felita Whitloe,Male,Training,63450,Kaduna,Good,Male,60000
+Ferrell Skepper,Female,Research and Development,30250,Kaduna,Average,Female,30000
+Fidela Artis,Female,Sales,78020,Lagos,Average,Female,70000
+Fidela Dowey,Female,Engineering,86740,Lagos,Very Good,Female,80000
+Fidelio Rigmond,Male,Services,96370,Lagos,Not Rated,Male,90000
+Filmore Fitzhenry,Male,Human Resources,108170,Kaduna,Not Rated,Male,100000
+Floria Olivia,Female,Sales,101500,Abuja,Good,Female,100000
+Florie Tortoise,Female,Sales,35930,Abuja,Average,Female,30000
+Florinda Crace,Female,Sales,45510,Abuja,Good,Female,40000
+Floyd Cowgill,Male,Support,37060,Kaduna,Average,Male,30000
+Fonzie O'Shea,Male,Product Management,80360,Kaduna,Average,Male,80000
+Forester Feakins,Male,Business Development,47290,Abuja,Average,Male,40000
+Foss Asquez,Male,Support,92190,Abuja,Average,Male,90000
+Foss Asquez,Male,Support,92190,Kaduna,Not Rated,Male,90000
+Franchot Crocken,Female,Accounting,29610,Abuja,Average,Female,20000
+Francoise Godbold,Male,Sales,46350,Kaduna,Average,Male,40000
+Frasier Straw,Male,Business Development,71370,Lagos,Average,Male,70000
+Frasquito Mosley,"",Support,48090,Abuja,Not Rated,Undisclosed,40000
+Fred Dudeney,Male,Services,88690,Abuja,Very Good,Male,80000
+Fred Dudeney,Male,Services,88690,Lagos,Poor,Male,80000
+Freda Legan,Female,Sales,102130,Kaduna,Average,Female,100000
+Freddie Johnikin,Male,Support,64960,Lagos,Average,Male,60000
+Freddy Linford,Female,Training,93130,Kaduna,Poor,Female,90000
+Frederik Dartan,Male,Engineering,62090,Abuja,Very Good,Male,60000
+Gabie Millichip,Male,Legal,49760,Abuja,Very Good,Male,40000
+Gamaliel Ewins,Male,Product Management,119660,Abuja,Average,Male,110000
+Gardy Eckersall,Male,Sales,79650,Kaduna,Good,Male,70000
+Gardy Grigorey,Female,Support,107090,Kaduna,Poor,Female,100000
+Gare Mattiussi,Male,Engineering,32500,Abuja,Poor,Male,30000
+Garey Bird,Female,Product Management,31830,Lagos,Average,Female,30000
+Garrick Hadwick,Male,Support,117810,Abuja,Average,Male,110000
+Garwin Peasegood,Female,Engineering,68220,Lagos,Good,Female,60000
+Garwood Penhale,Female,Business Development,96640,Kaduna,Very Good,Female,90000
+Gaultiero Have,Male,Accounting,115380,Kaduna,Average,Male,110000
+Gavan Puttan,Male,Accounting,35940,Abuja,Good,Male,30000
+Gayla Blackadder,Female,Services,109170,Lagos,Good,Female,100000
+Gearard Wixon,Male,Human Resources,106190,Abuja,Very Good,Male,100000
+Genevra Friday,Female,Research and Development,50450,Lagos,Average,Female,50000
+Genovera Ghost,Male,Marketing,72160,Kaduna,Average,Male,70000
+Georg Dinnage,Male,Training,88330,Kaduna,Good,Male,80000
+Georg Dinnage,Male,Training,88330,Kaduna,Poor,Male,80000
+Georgianne Archbutt,Female,Services,45600,Kaduna,Not Rated,Female,40000
+Georgie Caress,Male,Marketing,58260,Abuja,Average,Male,50000
+Gerald Caple,Male,Training,59300,Kaduna,Good,Male,50000
+Gerrard Doorey,Male,Product Management,110200,Abuja,Average,Male,110000
+Giacobo Donke,Male,Services,118360,Kaduna,Average,Male,110000
+Gideon Hehir,Female,Business Development,66510,Kaduna,Average,Female,60000
+Giffer Berlin,Female,Research and Development,92340,Kaduna,Good,Female,90000
+Gigi Bohling,Male,Engineering,74550,Lagos,Average,Male,70000
+Gilda Richen,Female,Support,71920,Abuja,Poor,Female,70000
+Gilles Jaquet,Female,Accounting,76300,Kaduna,Good,Female,70000
+Gilles Jaquet,Female,Accounting,76300,Kaduna,Not Rated,Female,70000
+Ginger Myott,Female,Services,31170,Abuja,Average,Female,30000
+Gino Groome,Female,Research and Development,60440,Lagos,Very Good,Female,60000
+Gisela Wille,"",Support,58850,Lagos,Poor,Undisclosed,50000
+Giselbert Newlands,Male,Services,47650,Abuja,Poor,Male,40000
+Gisella Mewe,Female,Support,109760,Abuja,Good,Female,100000
+Glennis Fussen,Female,Sales,58370,Kaduna,Good,Female,50000
+Gradey Litton,Female,Accounting,68890,Kaduna,Good,Female,60000
+Grady Crosgrove,"",Sales,77910,Kaduna,Average,Undisclosed,70000
+Grady Rochelle,Female,Accounting,69160,Kaduna,Very Good,Female,60000
+Granny Spencelayh,Male,Legal,99460,Abuja,Average,Male,90000
+Granville Stetson,Female,Engineering,111190,Lagos,Average,Female,110000
+Gray Seamon,Female,Business Development,78540,Kaduna,Average,Female,70000
+Gretchen Callow,Female,Training,33920,Kaduna,Average,Female,30000
+Grier Kidsley,Female,Product Management,51800,Abuja,Average,Female,50000
+Griz Thorington,Male,Support,47670,Abuja,Average,Male,40000
+Grover Cooksey,"",Services,74620,Kaduna,Poor,Undisclosed,70000
+Gunar Cockshoot,Male,Business Development,48950,Abuja,Good,Male,40000
+Gwenore Scotchmer,Female,Business Development,105290,Kaduna,Very Poor,Female,100000
+Halette Yesenev,Male,Services,61920,Kaduna,Average,Male,60000
+Hali Behnecke,Male,Human Resources,65570,Kaduna,Very Good,Male,60000
+Halimeda Kuscha,Female,Engineering,112570,Abuja,Poor,Female,110000
+Hannis January,Male,Business Development,29530,Lagos,Not Rated,Male,20000
+Hans Bucke,Male,Legal,78560,Kaduna,Very Poor,Male,70000
+Hartwell Pratchett,Female,Training,42730,Lagos,Average,Female,40000
+Harwilll Domotor,Male,Training,112370,Kaduna,Average,Male,110000
+Hatti Vezey,Female,Business Development,116240,Kaduna,Average,Female,110000
+Haven Belward,Male,Accounting,89120,Lagos,Good,Male,80000
+Hector Isard,Male,Support,116970,Abuja,Very Good,Male,110000
+Hedvige Stelfox,Female,Human Resources,33800,Abuja,Average,Female,30000
+Hedwiga Ingarfield,Female,Legal,38250,Kaduna,Average,Female,30000
+Helaine Lyddy,Male,Services,103110,Kaduna,Good,Male,100000
+Helene Bouts,Male,Sales,70380,Lagos,Good,Male,70000
+Hephzibah Summerell,Female,Services,28310,Abuja,Average,Female,20000
+Herschel Wareham,Male,Services,110830,Kaduna,Average,Male,110000
+Hildagard Reece,Female,Services,41220,Lagos,Average,Female,40000
+Hilliary Roarty,Male,Services,104770,Kaduna,Poor,Male,100000
+Hinda Label,Female,Human Resources,92700,Kaduna,Average,Female,90000
+Hiram Merkle,Male,Legal,116090,Kaduna,Average,Male,110000
+Hiram Merkle,Male,Legal,116090,Kaduna,Not Rated,Male,110000
+Hobard Benninger,Female,Product Management,86920,Abuja,Average,Female,80000
+Hobie Stockbridge,Male,Engineering,92940,Lagos,Good,Male,90000
+Hogan Iles,Female,Accounting,114180,Lagos,Very Good,Female,110000
+Honoria Cootes,Female,Engineering,115640,Abuja,Average,Female,110000
+Hoyt D'Alesco,Male,Sales,53540,Abuja,Poor,Male,50000
+Husein Augar,Female,Marketing,67910,Kaduna,Average,Female,60000
+Hyacinthie Braybrooke,Female,Support,68900,Abuja,Average,Female,60000
+Iain Wiburn,Female,Sales,84760,Kaduna,Average,Female,80000
+Ianthe Sayre,Male,Support,110730,Abuja,Very Good,Male,110000
+Ignacio Delion,Female,Engineering,113690,Kaduna,Average,Female,110000
+Ignacius Losel,Male,Legal,28480,Kaduna,Good,Male,20000
+Ignacius Losel,Male,Legal,28480,Kaduna,Poor,Male,20000
+Inge Creer,Female,Services,69060,Lagos,Very Poor,Female,60000
+Inger Andriveaux,"",Accounting,107110,Abuja,Good,Undisclosed,100000
+Inger Chapelhow,Female,Research and Development,84310,Abuja,Good,Female,80000
+Inger Chapelhow,Female,Research and Development,84310,Lagos,Average,Female,80000
+Ingunna Wainscoat,Male,Support,73240,Kaduna,Average,Male,70000
+Irena Trousdell,Female,Marketing,29530,Kaduna,Very Poor,Female,20000
+Irvine Blenkin,Male,Human Resources,79590,Abuja,Very Poor,Male,70000
+Irwin Kirsche,Female,Accounting,36150,Kaduna,Poor,Female,30000
+Isa Mogie,Female,Training,50950,Kaduna,Good,Female,50000
+Isaak Rawne,Male,Marketing,37360,Lagos,Average,Male,30000
+Isadora Maunsell,Male,Sales,78490,Abuja,Average,Male,70000
+Isidora Guido,Male,Engineering,43150,Abuja,Very Good,Male,40000
+Israel Farndon,Male,Marketing,107220,Lagos,Average,Male,100000
+Issiah Cradick,Male,Engineering,81380,Lagos,Not Rated,Male,80000
+Issie Crippes,Female,Product Management,81720,Abuja,Very Good,Female,80000
+Issy McLevie,Male,Research and Development,84940,Kaduna,Poor,Male,80000
+Itch Tinklin,Female,Support,77110,Abuja,Average,Female,70000
+Izzy Brisco,Female,Marketing,108080,Abuja,Average,Female,100000
+Jacklyn Andrioletti,Female,Training,86990,Abuja,Poor,Female,80000
+Jacobo Lasham,Female,Services,51320,Kaduna,Very Poor,Female,50000
+Jaime Dowe,Female,Accounting,39940,Lagos,Average,Female,30000
+Jakob Philippe,Male,Marketing,51910,Kaduna,Good,Male,50000
+Jamal Beagen,Female,Support,35830,Kaduna,Average,Female,30000
+Jamesy O'Ferris,Male,Accounting,36550,Kaduna,Average,Male,30000
+Jan Morforth,Male,Marketing,48170,Abuja,Good,Male,40000
+Janaya MacGinlay,Female,Support,33050,Abuja,Average,Female,30000
+Janean Gostage,Male,Services,81150,Abuja,Not Rated,Male,80000
+Janene Hairsine,Female,Marketing,104770,Abuja,Average,Female,100000
+Janina Wolverson,Female,Research and Development,99680,Kaduna,Good,Female,90000
+Jannel Labb,Female,Research and Development,47910,Kaduna,Average,Female,40000
+Jarad Barbrook,Female,Human Resources,31200,Abuja,Very Poor,Female,30000
+Jeane Bermingham,Male,Research and Development,116980,Kaduna,Very Poor,Male,110000
+Jeane Blaszczak,Female,Engineering,44300,Lagos,Good,Female,40000
+Jeane Blaszczak,Female,Engineering,44300,Lagos,Poor,Female,40000
+Jeannie Petracco,Female,Engineering,94820,Abuja,Average,Female,90000
+Jedd Moretto,Male,Support,63720,Kaduna,Very Good,Male,60000
+Jehu Rudeforth,Female,Engineering,60130,Abuja,Average,Female,60000
+Jermaine Steers,Female,Accounting,35440,Abuja,Good,Female,30000
+Jessi Calterone,Male,Legal,38520,Lagos,Poor,Male,30000
+Jessica Burditt,Female,Services,97120,Kaduna,Average,Female,90000
+Jessica Callcott,Female,Marketing,66020,Lagos,Very Good,Female,60000
+Jessika Jaycocks,Female,Research and Development,67980,Lagos,Average,Female,60000
+Jill Shipsey,Male,Accounting,52960,Lagos,Average,Male,50000
+Jillana Gabbitis,Male,Marketing,91360,Kaduna,Average,Male,90000
+Jim Perrygo,Male,Services,96790,Lagos,Good,Male,90000
+Jo Benoi,Female,Human Resources,117520,Kaduna,Average,Female,110000
+Joana Bartocci,Male,Human Resources,52670,Abuja,Average,Male,50000
+Joana Bartocci,Male,Human Resources,52670,Kaduna,Average,Male,50000
+Jo-anne Gobeau,Female,Training,37900,Abuja,Good,Female,30000
+Joaquin McVitty,Male,Sales,68860,Lagos,Good,Male,60000
+Jobey Boneham,Female,Services,74010,Kaduna,Average,Female,70000
+Jobie Basili,Female,Sales,39340,Kaduna,Good,Female,30000
+Joella Maevela,Female,Sales,76210,Abuja,Good,Female,70000
+Joella Maevela,Female,Sales,76210,Kaduna,Good,Female,70000
+Joey Keedwell,Female,Marketing,107440,Kaduna,Poor,Female,100000
+Joli Jodrelle,Male,Services,77100,Kaduna,Good,Male,70000
+Jolynn Behnecken,Female,Services,85180,Kaduna,Poor,Female,80000
+Jolynn Lumbley,"",Research and Development,70020,Abuja,Average,Undisclosed,70000
+Jordain Cyster,Female,Engineering,75870,Kaduna,Average,Female,70000
+Jordain Sparkwill,Female,Product Management,107660,Abuja,Good,Female,100000
+Jori Ashleigh,Male,Legal,64270,Abuja,Average,Male,60000
+Josepha Keningham,Male,Human Resources,42990,Kaduna,Average,Male,40000
+Joshia Farris,Female,Legal,36740,Kaduna,Average,Female,30000
+Josie Barnson,Female,Training,74110,Kaduna,Very Good,Female,70000
+Joyce Esel,Male,Sales,101390,Kaduna,Average,Male,100000
+Joyce Esel,Male,Sales,101390,Kaduna,Good,Male,100000
+Joyce Leyband,Female,Product Management,68200,Lagos,Average,Female,60000
+Juanita Trembey,"",Business Development,54780,Kaduna,Very Good,Undisclosed,50000
+Judi Cosgriff,Female,Human Resources,86390,Abuja,Good,Female,80000
+Judie Di Bernardo,Male,Accounting,117150,Abuja,Average,Male,110000
+Juditha Hatherleigh,Female,Human Resources,34830,Kaduna,Average,Female,30000
+Julian Andrassy,Female,Marketing,113980,Lagos,Poor,Female,110000
+Justino Chapiro,Male,Sales,71030,Lagos,Average,Male,70000
+Kai Ryder,Female,Accounting,119930,Lagos,Average,Female,110000
+Kaine Padly,Male,Research and Development,107700,Abuja,Very Good,Male,100000
+Kakalina Stanaway,Male,Human Resources,97020,Kaduna,Poor,Male,90000
+Karee Ruslinge,Female,Human Resources,82300,Kaduna,Not Rated,Female,80000
+Karita Vasyanin,Male,Legal,93080,Lagos,Average,Male,90000
+Karlen McCaffrey,Female,Services,71230,Kaduna,Very Poor,Female,70000
+Karon Oscroft,Male,Marketing,112120,Lagos,Average,Male,110000
+Karyn Creeghan,Male,Engineering,36540,Kaduna,Good,Male,30000
+Katerine Lohden,Male,Support,115090,Kaduna,Average,Male,110000
+Katey Cadany,Male,Services,92010,Abuja,Very Poor,Male,90000
+Kath Bletsoe,Male,Marketing,65700,Abuja,Very Poor,Male,60000
+Katya Hundy,Male,Business Development,88510,Kaduna,Poor,Male,80000
+Katya Hundy,Male,Business Development,88510,Lagos,Average,Male,80000
+Kay Edling,Male,Support,38330,Lagos,Average,Male,30000
+Kaye Crocroft,Male,Sales,52610,Lagos,Poor,Male,50000
+Kayley Southwell,Female,Marketing,101670,Kaduna,Average,Female,100000
+Kelci Walkden,Male,Human Resources,57090,Kaduna,Very Poor,Male,50000
+Kelley Rounds,Female,Engineering,114810,Kaduna,Average,Female,110000
+Kellsie Waby,Male,Training,79570,Kaduna,Average,Male,70000
+Kelly Corkitt,Female,Human Resources,85260,Lagos,Poor,Female,80000
+Kerwin Blakely,Male,Research and Development,68480,Lagos,Poor,Male,60000
+Kienan Epinay,Male,Marketing,91120,Kaduna,Poor,Male,90000
+Kikelia Ellor,"",Engineering,34620,Kaduna,Very Good,Undisclosed,30000
+Kincaid Hellicar,Male,Business Development,96610,Kaduna,Very Good,Male,90000
+Kingsley Hagard,Male,Engineering,32810,Kaduna,Average,Male,30000
+Kissiah Maydway,Male,Accounting,106460,Lagos,Good,Male,100000
+Kissiah Maydway,Male,Accounting,106460,Lagos,Poor,Male,100000
+Kit Battlestone,Female,Research and Development,115980,Abuja,Good,Female,110000
+Konstantin Timblett,Female,Training,56250,Abuja,Average,Female,50000
+Konstanze Wyleman,Male,Engineering,90800,Abuja,Average,Male,90000
+Kora Allebone,Female,Legal,98970,Lagos,Not Rated,Female,90000
+Koral Gerriet,Male,Support,30080,Abuja,Average,Male,30000
+Korney Bockings,Male,Engineering,40530,Lagos,Average,Male,40000
+Kristofor Powner,Male,Support,69340,Lagos,Average,Male,60000
+Krysta Elacoate,Male,Human Resources,106930,Abuja,Very Poor,Male,100000
+Krysta Elacoate,Male,Human Resources,106930,Kaduna,Average,Male,100000
+Krystal Lambswood,Female,Training,41600,Abuja,Not Rated,Female,40000
+Krystal Lambswood,Female,Training,41600,Kaduna,Poor,Female,40000
+L;urette Bontein,Male,Product Management,47650,Abuja,Good,Male,40000
+Lamar Blewitt,Male,Services,41910,Lagos,Poor,Male,40000
+Lamond Douthwaite,Male,Engineering,90530,Lagos,Very Poor,Male,90000
+Lane Monteaux,Female,Engineering,109980,Kaduna,Average,Female,100000
+Laney Renne,Male,Engineering,57350,Kaduna,Good,Male,50000
+Lanie Gatlin,Female,Support,45110,Abuja,Not Rated,Female,40000
+Lanny Beaney,Male,Legal,38730,Abuja,Average,Male,30000
+Larissa Ingledow,Male,Research and Development,62280,Kaduna,Not Rated,Male,60000
+Lark Ironmonger,Male,Marketing,85780,Abuja,Poor,Male,80000
+Larry Pioch,Male,Research and Development,49670,Abuja,Good,Male,40000
+Larry Pioch,Male,Research and Development,49670,Abuja,Poor,Male,40000
+Latisha Jolly,Female,Research and Development,58400,Lagos,Average,Female,50000
+Laura Gomar,Female,Research and Development,36860,Lagos,Poor,Female,30000
+Layton Crayden,Male,Product Management,40450,Kaduna,Average,Male,40000
+Layton Kierans,Male,Human Resources,113790,Kaduna,Very Poor,Male,110000
+Lea Chaplin,Female,Human Resources,73490,Kaduna,Poor,Female,70000
+Leela Eckart,Male,Legal,90340,Kaduna,Average,Male,90000
+Leena Bruckshaw,Male,Research and Development,74280,Lagos,Average,Male,70000
+Leilah Yesinin,Female,Research and Development,92450,Kaduna,Not Rated,Female,90000
+Lek Scamaden,Female,Training,51860,Abuja,Good,Female,50000
+Leonidas Cavaney,Male,Accounting,52250,Kaduna,Very Poor,Male,50000
+Leslie Baruch,Female,Accounting,103990,Kaduna,Very Good,Female,100000
+Leslie Cardoso,Female,Business Development,103340,Abuja,Good,Female,100000
+Letisha Carrett,Female,Sales,84600,Abuja,Very Poor,Female,80000
+Letizia Hasselby,Male,Legal,61790,Abuja,Average,Male,60000
+Lezlie Balmann,Male,Product Management,112460,Kaduna,Poor,Male,110000
+Lia Lurner,Female,Support,77260,Abuja,Average,Female,70000
+Liane Bedburrow,Female,Training,76620,Abuja,Average,Female,70000
+Lil Ibberson,Male,Business Development,75920,Kaduna,Good,Male,70000
+Lilyan Klimpt,Male,Services,58960,Lagos,Average,Male,50000
+Lincoln Cord,Female,Support,63560,Abuja,Very Good,Female,60000
+Lincoln Greatex,Male,Human Resources,34650,Abuja,Average,Male,30000
+Lindi Morfey,Male,Training,99470,Kaduna,Good,Male,90000
+Lindy Guillet,Male,Training,112780,Abuja,Poor,Male,110000
+Linell Compfort,Female,Accounting,70440,Abuja,Very Good,Female,70000
+Lion Adcock,Female,Legal,63710,Lagos,Average,Female,60000
+Lishe Casemore,Male,Services,117840,Kaduna,Average,Male,110000
+Lisle Danahar,"",Sales,75990,Kaduna,Average,Undisclosed,70000
+Lissy McCoy,Female,Business Development,86230,Abuja,Poor,Female,80000
+Lonny Caen,Female,Research and Development,35980,Lagos,Good,Female,30000
+Lonny Caen,Female,Research and Development,35980,Lagos,Very Good,Female,30000
+Lorain Tew,Female,Business Development,71590,Lagos,Poor,Female,70000
+Loralyn Bruton,Male,Legal,39960,Abuja,Average,Male,30000
+Loren Bentote,Male,Accounting,56280,Kaduna,Poor,Male,50000
+Loren Rettie,Female,Engineering,96000,Kaduna,Average,Female,90000
+Lorrie Derycot,Female,Support,93270,Lagos,Average,Female,90000
+Louise Lamming,Female,Sales,41930,Abuja,Poor,Female,40000
+Louise Lamming,Female,Sales,41930,Lagos,Average,Female,40000
+Luca Wolstenholme,Male,Engineering,53180,Kaduna,Average,Male,50000
+Luce Beentjes,Male,Training,48180,Abuja,Good,Male,40000
+Lucias Minico,Female,Services,67960,Kaduna,Average,Female,60000
+Ludovika Plaice,Male,Training,59670,Kaduna,Not Rated,Male,50000
+Mabel Orrow,Male,Product Management,31240,Abuja,Poor,Male,30000
+Mable Phythian,Female,Engineering,30000,Kaduna,Average,Female,30000
+Mackenzie Hannis,Female,Training,57000,Abuja,Very Poor,Female,50000
+Madelene Upcott,Male,Legal,109190,Abuja,Average,Male,100000
+Madge McCloughen,"",Training,91310,Kaduna,Average,Undisclosed,90000
+Madlen Ashburner,Male,Support,42240,Abuja,Very Good,Male,40000
+Maggee Stiggles,Female,Engineering,38930,Abuja,Average,Female,30000
+Maggie Ruberti,Male,Training,108340,Kaduna,Not Rated,Male,100000
+Magnum Locksley,Female,Services,42310,Abuja,Not Rated,Female,40000
+Mahalia Larcher,Male,Accounting,113280,Abuja,Good,Male,110000
+Maisie Shotboulte,Female,Marketing,71210,Abuja,Very Good,Female,70000
+Major O'Cahsedy,Female,Legal,29490,Abuja,Not Rated,Female,20000
+Mallorie Waber,Male,Training,60570,Lagos,Good,Male,60000
+Mallory Goldsberry,Male,Product Management,29610,Abuja,Average,Male,20000
+Malory Biles,Female,Training,58740,Kaduna,Not Rated,Female,50000
+Manolo Gasnell,Male,Engineering,88380,Kaduna,Good,Male,80000
+Marcellina Kitt,Female,Business Development,78500,Kaduna,Very Good,Female,70000
+Marcia Muldrew,Female,Sales,71510,Lagos,Good,Female,70000
+Marco Wooland,Female,Services,85530,Kaduna,Average,Female,80000
+Marga Lorenzo,Female,Legal,89360,Abuja,Good,Female,80000
+Margarete Blasing,Male,Support,110970,Kaduna,Not Rated,Male,110000
+Margit Kunze,Male,Engineering,94020,Abuja,Good,Male,90000
+Margot Royds,Female,Human Resources,106930,Lagos,Average,Female,100000
+Margy Elward,Male,Business Development,103670,Lagos,Average,Male,100000
+Mariann Mowat,Male,Marketing,32620,Kaduna,Good,Male,30000
+Mariette Daymont,Female,Sales,99530,Abuja,Average,Female,90000
+Mariette Daymont,Female,Sales,99530,Lagos,Not Rated,Female,90000
+Marissa Infante,"",Training,78840,Lagos,Average,Undisclosed,70000
+Maritsa Marusic,Male,Research and Development,52750,Abuja,Average,Male,50000
+Maritsa Marusic,Male,Research and Development,52750,Kaduna,Average,Male,50000
+Marjie Bamford,Male,Sales,80770,Abuja,Very Good,Male,80000
+Marlie Charsley,Male,Support,108450,Abuja,Poor,Male,100000
+Marline Wahncke,Male,Legal,72840,Abuja,Average,Male,70000
+Marlowe Constantine,Male,Services,60560,Abuja,Average,Male,60000
+Marmaduke Worssam,Female,Engineering,78380,Abuja,Very Poor,Female,70000
+Marney O'Breen,Female,Product Management,65920,Kaduna,Good,Female,60000
+Marni Jull,Female,Services,84200,Abuja,Good,Female,80000
+Martelle Brise,Male,Training,79520,Kaduna,Average,Male,70000
+Martita Beaumont,Male,Engineering,81790,Lagos,Not Rated,Male,80000
+Mata Fishley,Male,Accounting,102520,Abuja,Poor,Male,100000
+Mathian MacMeeking,Female,Services,45060,Kaduna,Good,Female,40000
+Mathian MacMeeking,Female,Services,45060,Lagos,Average,Female,40000
+Matias Cormack,Male,Research and Development,85460,Kaduna,Average,Male,80000
+Max Shower,Male,Training,67510,Kaduna,Not Rated,Male,60000
+Maximo Guirard,Female,Business Development,37020,Kaduna,Average,Female,30000
+Maximo Ungerecht,Male,Support,96250,Lagos,Average,Male,90000
+Meara Darrington,Male,Engineering,76190,Abuja,Poor,Male,70000
+Melisa Knott,Female,Training,86010,Kaduna,Average,Female,80000
+Mella Northam,Male,Support,109120,Kaduna,Not Rated,Male,100000
+Melodie Torresi,Female,Business Development,75090,Lagos,Average,Female,70000
+Melva Jickells,Female,Product Management,68800,Lagos,Poor,Female,60000
+Mendel Gentsch,Male,Human Resources,28330,Lagos,Very Poor,Male,20000
+Meredith Rucklidge,Male,Legal,115840,Lagos,Not Rated,Male,110000
+Merrel Blind,Female,Product Management,82120,Lagos,Average,Female,80000
+Merrilee Plenty,Female,Research and Development,87620,Abuja,Good,Female,80000
+Merrilee Plenty,Female,Research and Development,87620,Abuja,Very Good,Female,80000
+Meryl Waggatt,Female,Business Development,77060,Kaduna,Good,Female,70000
+Michael Sidry,Male,Product Management,81260,Abuja,Average,Male,80000
+Michaeline Capehorn,Female,Support,95340,Lagos,Poor,Female,90000
+Michaella Perri,Male,Training,75320,Lagos,Very Poor,Male,70000
+Michale Rolf,Male,Services,111820,Lagos,Very Good,Male,110000
+Mick Spraberry,Female,Services,85880,Abuja,Good,Female,80000
+Mick Tanguy,Female,Research and Development,97400,Lagos,Good,Female,90000
+Mick Titman,Male,Training,105330,Lagos,Poor,Male,100000
+Mickey Pybus,Male,Human Resources,87850,Kaduna,Good,Male,80000
+Mickie Dagwell,Male,Engineering,50860,Abuja,Not Rated,Male,50000
+Miguel Woolner,Male,Training,51740,Kaduna,Poor,Male,50000
+Millard Brakewell,Male,Product Management,76560,Kaduna,Good,Male,70000
+Millie Fiveash,Female,Sales,57080,Kaduna,Average,Female,50000
+Milton Lilie,Female,Business Development,46470,Kaduna,Average,Female,40000
+Minetta Parsons,Female,Human Resources,110770,Abuja,Average,Female,110000
+Minetta Parsons,Female,Human Resources,110770,Abuja,Good,Female,110000
+Minna Showler,Female,Training,105370,Kaduna,Good,Female,100000
+Mirna Etoile,Female,Legal,29970,Kaduna,Average,Female,20000
+Monroe Hendrickx,Male,Accounting,34080,Kaduna,Not Rated,Male,30000
+Monti Burdus,Female,Human Resources,39650,Abuja,Average,Female,30000
+Moore Gligoraci,Female,Training,49530,Lagos,Average,Female,40000
+Mora Innett,Female,Legal,105610,Lagos,Poor,Female,100000
+Mord Cromblehome,Male,Legal,57910,Kaduna,Average,Male,50000
+Morten Dumphy,Male,Legal,111480,Kaduna,Poor,Male,110000
+Murial Ickovici,Female,Business Development,72500,Kaduna,Good,Female,70000
+Murial Ickovici,Female,Business Development,72500,Lagos,Average,Female,70000
+Murry Dryburgh,Male,Research and Development,69070,Abuja,Average,Male,60000
+Murry Dryburgh,Male,Research and Development,69070,Kaduna,Poor,Male,60000
+My Hanscome,Male,Sales,59430,Lagos,Average,Male,50000
+Myer McCory,Male,Research and Development,69710,Kaduna,Average,Male,60000
+Myrilla Mercik,Female,Training,96660,Kaduna,Average,Female,90000
+Myrle Prandoni,Male,Sales,62200,Kaduna,Very Good,Male,60000
+Nananne Gehringer,"",Support,104800,Lagos,Average,Undisclosed,100000
+Nani Brockley,Male,Product Management,47000,Abuja,Good,Male,40000
+Nanice Boatwright,"",Marketing,105870,Abuja,Very Poor,Undisclosed,100000
+Naoma Cruse,Male,Research and Development,71540,Kaduna,Average,Male,70000
+Natalee Craiker,Male,Product Management,111230,Abuja,Average,Male,110000
+Nathanial Brounfield,Male,Accounting,105120,Kaduna,Average,Male,100000
+Nelli Schoolfield,Female,Engineering,109870,Kaduna,Average,Female,100000
+Nerissa Kavanagh,Male,Training,84170,Abuja,Good,Male,80000
+Nerissa Kavanagh,Male,Training,84170,Lagos,Not Rated,Male,80000
+Nerita Mycock,Male,Accounting,67430,Kaduna,Average,Male,60000
+Nessi Delves,Male,Training,56830,Kaduna,Very Good,Male,50000
+Nessy Baskwell,Male,Services,58130,Kaduna,Average,Male,50000
+Niall Selesnick,Female,Engineering,34980,Lagos,Good,Female,30000
+Nickolai Artin,Female,Product Management,110910,Lagos,Average,Female,110000
+Nicol Giacomi,Female,Training,39750,Kaduna,Average,Female,30000
+Nicola Kiely,Female,Business Development,93740,Kaduna,Average,Female,90000
+Nicole Blowfelde,Female,Training,59560,Kaduna,Very Good,Female,50000
+Nicolis Winspire,Male,Engineering,45650,Lagos,Good,Male,40000
+Niko MacGille,Female,Engineering,88430,Lagos,Average,Female,80000
+Niles Mahomet,Female,Human Resources,50020,Abuja,Average,Female,50000
+Nolan Tortis,Male,Support,36710,Abuja,Average,Male,30000
+Noll Forbear,Male,Services,109380,Kaduna,Average,Male,100000
+Nollie Courteney,Male,Research and Development,71490,Abuja,Not Rated,Male,70000
+Nonah Bissell,Male,Engineering,82240,Kaduna,Poor,Male,80000
+Norrie Grahl,"",Business Development,42950,Abuja,Poor,Undisclosed,40000
+North Bertomeu,Female,Marketing,104900,Abuja,Good,Female,100000
+Northrup Aires,Female,Human Resources,118300,Kaduna,Average,Female,110000
+Novelia Pyffe,Male,Accounting,52270,Kaduna,Good,Male,50000
+Oates Dinan,Female,Research and Development,104680,Lagos,Average,Female,100000
+Obidiah Westrope,Male,Legal,108460,Kaduna,Good,Male,100000
+Oby Sorrel,Female,Support,117880,Kaduna,Average,Female,50000
+Oliy Feeney,Female,Marketing,42970,Lagos,Good,Female,40000
+Ollie Schirak,Male,Legal,48690,Lagos,Average,Male,40000
+Ondrea Banfield,Female,Engineering,107790,Kaduna,Average,Female,100000
+Onofredo Hassan,Male,Product Management,52220,Kaduna,Average,Male,50000
+Oona Donan,Female,Business Development,88360,Lagos,Average,Female,80000
+Oran Buxcy,Female,Engineering,56870,Lagos,Poor,Female,50000
+Orlando Gorstidge,Male,Marketing,40750,Lagos,Very Poor,Male,40000
+Orran Gritskov,Female,Legal,72700,Lagos,Not Rated,Female,70000
+Orton Livick,Male,Services,37920,Abuja,Average,Male,30000
+Orton Livick,Male,Services,37920,Abuja,Not Rated,Male,30000
+Osborn Pawle,Male,Training,38030,Abuja,Average,Male,30000
+Ottilie Vittel,Female,Business Development,34500,Abuja,Not Rated,Female,30000
+Packston Joanic,Male,Marketing,51860,Kaduna,Good,Male,50000
+Pancho De Ortega,Male,Support,99780,Kaduna,Very Good,Male,90000
+Pate Beardsley,Male,Services,85880,Lagos,Very Good,Male,80000
+Patience Noot,Female,Business Development,49520,Abuja,Average,Female,40000
+Patricia Dwelly,Male,Accounting,91500,Lagos,Poor,Male,90000
+Patti Dradey,Male,Services,84740,Lagos,Average,Male,80000
+Pauletta Falkus,Male,Sales,33560,Kaduna,Average,Male,30000
+Payton Pickervance,Male,Marketing,117020,Kaduna,Average,Male,110000
+Pearla Beteriss,Male,Services,69910,Kaduna,Good,Male,60000
+Pedro Carluccio,Male,Services,41140,Lagos,Average,Male,40000
+Peggi Bullas,Male,Support,56620,Abuja,Average,Male,50000
+Pembroke Siflet,Female,Human Resources,59550,Abuja,Average,Female,50000
+Penni Patemore,Male,Services,29330,Kaduna,Average,Male,20000
+Pennie Walmsley,Male,Support,104470,Lagos,Not Rated,Male,100000
+Peria Revey,"",Engineering,103240,Kaduna,Good,Undisclosed,100000
+Petey Probey,Male,Services,31630,Kaduna,Poor,Male,30000
+Petronella Marusik,Male,Accounting,75600,Abuja,Average,Male,70000
+Philis Rowlstone,Female,Human Resources,85740,Lagos,Average,Female,80000
+Phillipp Nekrews,Male,Human Resources,71330,Kaduna,Very Good,Male,70000
+Phylys Benitez,Female,Product Management,84420,Abuja,Average,Female,80000
+Pierson Measham,Male,Business Development,103160,Kaduna,Good,Male,100000
+Pippy Roxby,Female,Human Resources,106490,Kaduna,Average,Female,100000
+Pippy Shepperd,Female,Accounting,44850,Kaduna,Very Good,Female,40000
+Pooh Splevins,Female,Business Development,31020,Lagos,Average,Female,30000
+Purcell Le Pine,"",Legal,101220,Kaduna,Good,Undisclosed,100000
+Putnem Manchester,Male,Sales,70360,Lagos,Average,Male,70000
+Pyotr Lightewood,Male,Training,33840,Lagos,Not Rated,Male,30000
+Quentin Ferraresi,Female,Accounting,49000,Abuja,Good,Female,40000
+Quintina Kilgannon,Female,Legal,86490,Kaduna,Poor,Female,80000
+Radcliffe Fairpool,Female,Services,60760,Lagos,Very Good,Female,60000
+Rafaelita Blaksland,Female,Services,109160,Kaduna,Good,Female,100000
+Rasia Fryatt,Female,Human Resources,33960,Lagos,Not Rated,Female,30000
+Rasla Fisby,Male,Legal,109000,Abuja,Very Good,Male,100000
+Reena McKernan,Female,Marketing,104750,Kaduna,Average,Female,100000
+Reg MacMichael,Male,Services,106890,Kaduna,Average,Male,100000
+Reggie Taylerson,Male,Marketing,87610,Lagos,Good,Male,80000
+Reidar Skechley,Male,Product Management,40770,Abuja,Average,Male,40000
+Reinald Franken,Female,Engineering,28870,Abuja,Very Good,Female,20000
+Renaldo Thomassin,Male,Business Development,73360,Kaduna,Average,Male,70000
+Reube Sushams,Male,Marketing,90130,Kaduna,Good,Male,90000
+Rey Chartman,Female,Training,93960,Kaduna,Poor,Female,90000
+Rhiamon Mollison,Female,Research and Development,59430,Abuja,Average,Female,50000
+Rhiamon Mollison,Female,Research and Development,59430,Lagos,Average,Female,50000
+Rhianna McLeoid,Male,Legal,114900,Kaduna,Average,Male,110000
+Rhody Odhams,Male,Training,103600,Lagos,Good,Male,100000
+Riccardo Hagan,Male,Human Resources,86560,Abuja,Average,Male,80000
+Richy Gray,Female,Product Management,89830,Kaduna,Very Good,Female,80000
+Roanne Phizacklea,Female,Product Management,35990,Abuja,Average,Female,30000
+Robbert Mandrier,Female,Training,98020,Abuja,Very Good,Female,90000
+Robinia Scholling,Female,Human Resources,100730,Kaduna,Average,Female,100000
+Roddy Speechley,Male,Accounting,115920,Abuja,Good,Male,110000
+Rodina Drinan,Female,Sales,77050,Abuja,Good,Female,70000
+Rodrigo Congdon,Female,Legal,117940,Lagos,Average,Female,110000
+Rogers Rosenthaler,Female,Business Development,91190,Lagos,Poor,Female,90000
+Rois Garrigan,Male,Accounting,61430,Kaduna,Poor,Male,60000
+Romona Dimmne,Female,Research and Development,48250,Kaduna,Poor,Female,40000
+Romona Melody,Female,Services,88690,Lagos,Not Rated,Female,80000
+Ronnie Mesias,Male,Support,86360,Kaduna,Very Poor,Male,80000
+Ronnie Sinyard,Female,Legal,101760,Abuja,Good,Female,100000
+Rory Ravenscroftt,Female,Accounting,45450,Kaduna,Very Good,Female,40000
+Rosaline Wenderott,Female,Sales,36820,Abuja,Good,Female,30000
+Rosamond Fishe,Male,Services,108160,Lagos,Good,Male,100000
+Rosco Cogley,Male,Services,86840,Abuja,Average,Male,80000
+Rose Shurrocks,Female,Research and Development,32140,Kaduna,Good,Female,30000
+Roselle Wandrach,Male,Sales,91310,Abuja,Average,Male,90000
+Roth Bourget,Male,Services,28870,Kaduna,Average,Male,20000
+Royal Nowakowska,Male,Human Resources,79570,Kaduna,Average,Male,70000
+Ruby Cracie,Male,Research and Development,78710,Kaduna,Poor,Male,70000
+Rudyard Tomsa,Female,Marketing,43900,Kaduna,Good,Female,40000
+Ruthanne Beadnell,Female,Accounting,103610,Kaduna,Poor,Female,100000
+Ryon Baroch,Male,Accounting,43590,Abuja,Poor,Male,40000
+Sabina Scorrer,Female,Support,70930,Kaduna,Average,Female,70000
+Sammy Gantlett,Female,Product Management,74800,Lagos,Very Poor,Female,70000
+Sandi Labat,Male,Sales,60140,Abuja,Average,Male,60000
+Sandie Anthonies,Male,Legal,33410,Kaduna,Average,Male,30000
+Sandy Cadden,Female,Legal,95980,Lagos,Average,Female,90000
+Sarajane Peachey,Female,Marketing,107580,Abuja,Poor,Female,100000
+Sarajane Scourge,Female,Business Development,58830,Abuja,Poor,Female,50000
+Sarene Creeboe,Male,Product Management,35830,Kaduna,Average,Male,30000
+Saunders Blumson,"",Legal,56370,Abuja,Average,Undisclosed,50000
+Saunders Blumson,"",Legal,56370,Kaduna,Very Good,Undisclosed,50000
+Saundra O'Connel,Male,Human Resources,85330,Abuja,Average,Male,80000
+Selby Hacker,Male,Business Development,37800,Lagos,Average,Male,30000
+Seward Kubera,Male,Engineering,43330,Abuja,Very Good,Male,40000
+Shana Bewly,Female,Legal,105960,Abuja,Poor,Female,100000
+Shannen Crittal,Female,Engineering,68040,Kaduna,Good,Female,60000
+Shanon Deverell,Female,Research and Development,78180,Lagos,Very Good,Female,70000
+Shari McNee,Male,Research and Development,75880,Lagos,Average,Male,70000
+Shari Pickston,Male,Legal,96320,Abuja,Average,Male,90000
+Shari Pickston,Male,Legal,96320,Lagos,Not Rated,Male,90000
+Sharity Brands,Male,Product Management,104080,Abuja,Very Poor,Male,100000
+Sharl Bendson,Female,Business Development,33630,Abuja,Poor,Female,30000
+Sharron Petegree,Female,Product Management,87290,Kaduna,Good,Female,80000
+Shaun Kyrkeman,Male,Product Management,35010,Kaduna,Average,Male,30000
+Shay Chasney,Male,Human Resources,72550,Lagos,Average,Male,70000
+Shaylah Owbrick,Male,Support,56900,Abuja,Average,Male,50000
+Shaylyn Ransbury,Female,Support,100370,Abuja,Average,Female,100000
+Shayne Stegel,Male,Business Development,70270,Abuja,Very Good,Male,70000
+Shea Mix,Male,Research and Development,82680,Lagos,Very Poor,Male,80000
+Sheff Gerdts,Male,Business Development,89160,Abuja,Average,Male,80000
+Sheff Gerdts,Male,Business Development,89160,Lagos,Good,Male,80000
+Shela Goade,Male,Legal,93930,Kaduna,Good,Male,90000
+Shelbi Aldin,Female,Research and Development,40910,Abuja,Poor,Female,40000
+Shelby Buckland,Male,Services,76390,Lagos,Average,Male,70000
+Shelley Moncreiffe,Male,Sales,108360,Abuja,Average,Male,100000
+Shellysheldon Ellerman,Female,Product Management,34470,Abuja,Good,Female,30000
+Shellysheldon Mahady,Male,Training,114690,Lagos,Very Poor,Male,110000
+Shirlene Argo,Female,Services,87210,Abuja,Not Rated,Female,80000
+Sibyl Dunkirk,Female,Product Management,86570,Kaduna,Very Poor,Female,80000
+Sile Whorton,Female,Legal,61210,Abuja,Average,Female,60000
+Sile Whorton,Female,Legal,61210,Kaduna,Not Rated,Female,60000
+Silva Monte,Male,Sales,52810,Abuja,Poor,Male,50000
+Simon Kembery,Male,Training,99750,Lagos,Average,Male,90000
+Sisely Gatsby,Female,Support,85670,Kaduna,Average,Female,80000
+Sissy Muehle,Female,Accounting,86470,Kaduna,Average,Female,80000
+Skip Morkham,Female,Marketing,83180,Kaduna,Average,Female,80000
+Sly Cowley,Male,Accounting,48530,Abuja,Average,Male,40000
+Stan Tolliday,Female,Sales,39540,Lagos,Average,Female,30000
+Stefa Eggleston,Male,Sales,88380,Kaduna,Average,Male,80000
+Stephan Bussel,Male,Research and Development,48290,Kaduna,Average,Male,40000
+Steven Labat,Male,Legal,37110,Kaduna,Average,Male,30000
+Stormy Church,Male,Research and Development,29880,Lagos,Very Poor,Male,20000
+Susy Challoner,Female,Business Development,29890,Kaduna,Good,Female,20000
+Tabbatha Pickston,Male,Marketing,72040,Abuja,Average,Male,70000
+Tabbatha Pickston,Male,Marketing,72040,Abuja,Good,Male,70000
+Taddeo Jovis,Female,Sales,98740,Abuja,Poor,Female,90000
+Tadio Audritt,"",Human Resources,99450,Abuja,Average,Undisclosed,90000
+Tadio Dowdle,Female,Product Management,91930,Kaduna,Average,Female,90000
+Tallie Chaikovski,Male,Sales,83190,Lagos,Average,Male,80000
+Tamar MacGilfoyle,Male,Product Management,47270,Kaduna,Average,Male,40000
+Tamara Couvet,Female,Engineering,61050,Abuja,Average,Female,60000
+Tammi Lackham,Female,Business Development,61690,Abuja,Good,Female,60000
+Tammy Backson,Female,Marketing,44820,Abuja,Average,Female,40000
+Tarrah Wordsworth,Female,Product Management,86340,Abuja,Poor,Female,80000
+Tatum Hush,Female,Human Resources,53240,Abuja,Good,Female,50000
+Tawnya Tickel,Male,Support,118840,Abuja,Not Rated,Male,110000
+Thedrick Bothwell,Male,Business Development,69760,Kaduna,Average,Male,60000
+Thedrick Rogeon,Male,Marketing,110950,Kaduna,Poor,Male,110000
+Thekla Lynnett,Male,Training,53950,Lagos,Poor,Male,50000
+Theresita Chasmer,Female,Product Management,106670,Lagos,Average,Female,100000
+Thorvald Milliken,Female,Business Development,33030,Lagos,Good,Female,30000
+Tiffani Mecozzi,Female,Training,119750,Lagos,Average,Female,110000
+Timmi Durran,Male,Human Resources,68430,Abuja,Good,Male,60000
+Timmy Brenston,Male,Business Development,43700,Lagos,Average,Male,40000
+Toby Brodhead,Female,Accounting,98400,Lagos,Average,Female,90000
+Toby Micklewright,Male,Legal,32980,Lagos,Not Rated,Male,30000
+Torey Rosell,Male,Accounting,82670,Kaduna,Average,Male,80000
+Torrance Collier,Female,Training,96140,Lagos,Good,Female,90000
+Townie Dongall,Male,Legal,48630,Kaduna,Not Rated,Male,40000
+Trace Sidsaff,Female,Accounting,51200,Kaduna,Poor,Female,50000
+Tracy Renad,Female,Accounting,114890,Abuja,Average,Female,110000
+Trey Jurges,Female,Legal,72360,Kaduna,Poor,Female,70000
+Tris Hynard,Female,Product Management,29080,Kaduna,Average,Female,20000
+Trix Lutsch,Male,Business Development,106400,Abuja,Poor,Male,100000
+Trix Lutsch,Male,Business Development,106400,Lagos,Average,Male,100000
+Trudie Couch,Female,Legal,43110,Lagos,Average,Female,40000
+Twila Roantree,Female,Sales,96620,Lagos,Poor,Female,90000
+Tyson Prescote,Male,Human Resources,29420,Kaduna,Average,Male,20000
+Ulick Maingot,Female,Services,42820,Kaduna,Average,Female,40000
+Valentia Etteridge,Female,Business Development,118100,Lagos,Average,Female,110000
+Van Ruseworth,Female,Services,80610,Abuja,Average,Female,80000
+Van Tuxwell,Female,Business Development,80700,Abuja,Good,Female,80000
+Van Tuxwell,Female,Business Development,80700,Abuja,Poor,Female,80000
+Vasily MacVanamy,Male,Human Resources,84470,Lagos,Average,Male,80000
+Vassili Flay,"",Research and Development,108970,Abuja,Average,Undisclosed,100000
+Vaughn Carvill,Female,Training,84750,Lagos,Average,Female,80000
+Vere Kulic,Male,Legal,66570,Abuja,Poor,Male,60000
+Verla Timmis,Male,Support,54140,Abuja,Average,Male,50000
+Verney Sloegrave,Male,Sales,84500,Kaduna,Average,Male,80000
+Vernor Atyea,Female,Training,102930,Kaduna,Good,Female,100000
+Vic Radolf,Female,Product Management,62780,Abuja,Very Good,Female,60000
+Violetta Vial,Male,Engineering,68970,Kaduna,Average,Male,60000
+Virge Garfield,Male,Training,110890,Abuja,Poor,Male,110000
+Virginia McConville,Female,Human Resources,76900,Abuja,Very Good,Female,70000
+Vlad Strangeway,Male,Product Management,77740,Abuja,Good,Male,70000
+Von Boeter,Male,Product Management,36370,Lagos,Good,Male,30000
+Wald Bountiff,Female,Support,28970,Lagos,Very Good,Female,20000
+Warner Carwithan,Female,Support,113760,Kaduna,Good,Female,110000
+Wendel Malletratt,Male,Business Development,67660,Kaduna,Very Poor,Male,60000
+Westbrook Brandino,Male,Legal,113620,Lagos,Poor,Male,110000
+Willi Vasey,Female,Support,43020,Kaduna,Average,Female,40000
+William Coveny,Male,Legal,66140,Abuja,Good,Male,60000
+William Reeveley,Male,Training,107740,Abuja,Good,Male,50000
+Wilone O'Kielt,Female,Business Development,114870,Lagos,Not Rated,Female,110000
+Wilt Wayvill,Female,Legal,99750,Kaduna,Average,Female,90000
+Win Arthurs,Female,Support,43200,Abuja,Average,Female,40000
+Win Arthurs,Female,Support,43200,Abuja,Very Good,Female,40000
+Winny Millam,Female,Business Development,94050,Lagos,Not Rated,Female,90000
+Wyatt Clinch,Male,Engineering,52590,Lagos,Good,Male,50000
+Wyn Treadger,Female,Business Development,69190,Abuja,Average,Female,60000
+Wyn Treadger,Female,Business Development,69190,Kaduna,Good,Female,60000
+Xavier Filipic,Female,Marketing,31050,Kaduna,Good,Female,30000
+Xylina Pargetter,Female,Legal,109790,Kaduna,Average,Female,100000
+Yanaton Wooster,Male,Marketing,76930,Abuja,Average,Male,70000
+Yasmeen Klimkiewich,Female,Legal,48140,Abuja,Very Good,Female,40000
+Yolande O'Dare,Female,Accounting,51650,Abuja,Good,Female,50000
+Yoshiko Tamblingson,Male,Sales,29590,Kaduna,Good,Male,20000
+Yves Clunie,Female,Marketing,75440,Lagos,Average,Female,70000
+Yves Pawlik,Male,Accounting,57930,Abuja,Very Good,Male,50000
+Yvette Bett,Male,Human Resources,76320,Lagos,Good,Male,70000
+Zach Polon,Male,Marketing,53540,Kaduna,Poor,Male,50000
+Zebulon Allmen,"",Business Development,52140,Abuja,Average,Undisclosed,50000
